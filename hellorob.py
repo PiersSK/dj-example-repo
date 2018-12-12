@@ -5,3 +5,4 @@ def say_hello():
 
 if(__name__ == "__main__"):
     say_hello()
+    print("this should be merged if you think it's okay")
