@@ -3,5 +3,14 @@ def say_hello():
     print("Piers is okayyy")
     print("test addition")
 
+def rick_roll():
+    print('''
+        Never gonna give you up,
+        Never gonna let you down,
+        Never gonna run around
+        and desert you (8)
+    ''')
+
 if(__name__ == "__main__"):
     say_hello()
+    rick_roll()
